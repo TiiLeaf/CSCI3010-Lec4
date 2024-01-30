@@ -2,7 +2,7 @@
 #include "functions_to_implement.cpp"
 
 int main() {
-    std::string myMessage = Join(std::vector<std::string>{"Hello", "World"}, ", ");
+    std::string myMessage = Join(std::vector<std::string>{"Hello", "World!"}, ", ");
     std::cout << myMessage << std::endl;
 
     std::vector<int> myNums = {};
