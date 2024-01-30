@@ -1,0 +1,3 @@
+# ignore built executables
+test
+main
